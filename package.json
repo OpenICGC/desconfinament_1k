@@ -27,6 +27,7 @@
     "mapbox-gl-controls": "^1.6.2"
   },
   "resolutions": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.5",
+    "lodash": ">=4.17.19"
   }
 }
